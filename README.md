@@ -9,6 +9,7 @@ SQL (Structured Query Language):
 
 Querying databases: Extract, manipulate, and analyze data from relational databases.
 Key concepts: Tables, columns, rows, joins, aggregation functions (COUNT, SUM, AVG, etc.), grouping, filtering.
+
 Python:
 
 Versatile programming language: Widely used for data analysis, machine learning, and web development.
@@ -18,11 +19,13 @@ NumPy: Numerical operations and arrays.
 Matplotlib/Seaborn: Data visualization.
 Scikit-learn: Machine learning algorithms.
 TensorFlow/PyTorch: Deep learning frameworks.
+
 Combining SQL and Python:
 
 Connect to databases: Use Python libraries like psycopg2 (for PostgreSQL), pymysql (for MySQL), or sqlite3 (for SQLite) to connect to your database.
 Execute SQL queries: Write SQL queries using Python strings and execute them directly in your code.
 Fetch and manipulate data: Retrieve data from the database and perform calculations or transformations using Python's data analysis libraries.
+
 Example:
 ```
 Python
