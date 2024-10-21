@@ -1,11 +1,11 @@
 # SQL and Python: A Dynamic Duo
 
-SQL (Structured Query Language):
+## SQL (Structured Query Language):
 
 Querying databases: Extract, manipulate, and analyze data from relational databases.  
 Key concepts: Tables, columns, rows, joins, aggregation functions (COUNT, SUM, AVG, etc.), grouping, filtering.  
 
-Python:  
+## Python:  
 
 Versatile programming language: Widely used for data analysis, machine learning, and web development.   
 Libraries for data science:   
@@ -15,7 +15,7 @@ Matplotlib/Seaborn: Data visualization.
 Scikit-learn: Machine learning algorithms.   
 TensorFlow/PyTorch: Deep learning frameworks.  
 
-Combining SQL and Python:  
+## Combining SQL and Python:  
 
 Connect to databases: Use Python libraries like psycopg2 (for PostgreSQL), pymysql (for MySQL), or sqlite3 (for SQLite) to connect to your database.   
 Execute SQL queries: Write SQL queries using Python strings and execute them directly in your code.   
@@ -45,7 +45,7 @@ df = pd.read_sql_query(query, conn)
 # ... (code for data analysis and visualization)
 ```
   
-Benefits of using SQL and Python together:  
+## Benefits of using SQL and Python together:  
 
 Powerful combination: SQL for efficient data manipulation and Python for data analysis and machine learning.   
 Flexibility: Easily switch between relational databases and other data sources.   
