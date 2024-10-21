@@ -1,6 +1,9 @@
-[<img src="./assets/sql.svg" width="30" />]![download](https://github.com/user-attachments/assets/3c555f8a-3811-4ce5-a041-443cd22a47f1) ![Python-Symbol](https://github.com/user-attachments/assets/5b7d304b-9565-43de-a72f-91d2fbbe8547)
 
-SQL and Python: A Dynamic Duo
+<img width="488" alt="Screenshot 2024-10-21 210233" src="https://github.com/user-attachments/assets/de5f3173-1a15-4815-a47c-b363beb72d27">
+
+
+
+#SQL and Python: A Dynamic Duo
 
 SQL (Structured Query Language):
 
