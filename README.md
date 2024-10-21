@@ -1,4 +1,4 @@
-![download](https://github.com/user-attachments/assets/3c555f8a-3811-4ce5-a041-443cd22a47f1) ![Python-Symbol](https://github.com/user-attachments/assets/5b7d304b-9565-43de-a72f-91d2fbbe8547)
+[<img src="./assets/sql.svg" width="30" />]![download](https://github.com/user-attachments/assets/3c555f8a-3811-4ce5-a041-443cd22a47f1) ![Python-Symbol](https://github.com/user-attachments/assets/5b7d304b-9565-43de-a72f-91d2fbbe8547)
 
 SQL and Python: A Dynamic Duo
 
