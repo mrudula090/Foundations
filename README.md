@@ -20,7 +20,7 @@ Execute SQL queries: Write SQL queries using Python strings and execute them dir
 Fetch and manipulate data: Retrieve data from the database and perform calculations or transformations using Python's data analysis libraries.
 
 Example:
-'''
+```
 Python
 import pandas as pd
 import psycopg2
@@ -41,7 +41,7 @@ df = pd.read_sql_query(query, conn)
 
 # Analyze and visualize the data using pandas and matplotlib
 # ... (code for data analysis and visualization)
-'''
+```
 
 Benefits of using SQL and Python together:
 
