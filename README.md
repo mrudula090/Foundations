@@ -3,7 +3,7 @@
 
 
 
-#SQL and Python: A Dynamic Duo
+## SQL and Python: A Dynamic Duo
 
 SQL (Structured Query Language):
 
