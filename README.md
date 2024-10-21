@@ -1,5 +1,5 @@
 
-<img width="488" alt="Screenshot 2024-10-21 210233" src="https://github.com/user-attachments/assets/de5f3173-1a15-4815-a47c-b363beb72d27">
+<img width="600" alt="Screenshot 2024-10-21 210233" src="https://github.com/user-attachments/assets/de5f3173-1a15-4815-a47c-b363beb72d27">
 
 
 
