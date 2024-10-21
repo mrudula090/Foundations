@@ -1,4 +1,6 @@
-## SQL (Structured Query Language):
+# SQL and Python: A Dynamic Duo
+
+SQL (Structured Query Language):
 
 Querying databases: Extract, manipulate, and analyze data from relational databases.  
 Key concepts: Tables, columns, rows, joins, aggregation functions (COUNT, SUM, AVG, etc.), grouping, filtering.  
